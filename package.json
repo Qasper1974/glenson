@@ -1,0 +1,29 @@
+{
+  "name": "glensonla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qasper1974/glensonla.git"
+  },
+  "author": "Yves Faems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qasper1974/glensonla/issues"
+  },
+  "homepage": "https://github.com/Qasper1974/glensonla#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
